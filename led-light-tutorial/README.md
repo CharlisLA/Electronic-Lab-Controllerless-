@@ -19,3 +19,4 @@ The LED should illuminate.
 
 (IMPORTANT) : if you want your LED to work, do not plug it in a horizontal way, the horizontal rows
 across your breadboard are connected, so wire it vertical to the rows.
+<img width="500" height="369" alt="circuit-connections" src="https://github.com/user-attachments/assets/5f1549eb-3a92-410e-a77f-086dbbe3df89" />
